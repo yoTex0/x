@@ -1,0 +1,89 @@
+{
+  "name": "BEP20 Token List",
+  "timestamp": "2021-03-06T12:00:21.269Z",
+  "version": {
+    "major": 1,
+    "minor": 9,
+    "patch": 29
+  },
+  "tags": {},
+  "logoURI": "https://tokens.2inch.finance/images/xxx.png",
+  "keywords": [
+    "2inchExchange",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "2inch Token",
+      "address": "xxx",
+      "symbol": "2INCH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.2inch.finance/images/xxx.png"
+    },
+    {
+      "name": "BAI Stablecoin",
+      "address": "0xaA8012a0Ea627767545a8E435C2A2BD51f60173D",
+      "symbol": "BAI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.2inch.finance/images/0xaA8012a0Ea627767545a8E435C2A2BD51f60173D.png"
+    },
+    {
+      "name": "BUSD Token",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.2inch.finance/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+    },
+    {
+      "name": "Dai Token",
+      "address": "2inchAF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.2inch.finance/images/2inchAF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.2inch.finance/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.2inch.finance/images/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.2inch.finance/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+    },
+    {
+      "name": "Bitcoin Token",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "symbol": "BTC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.2inch.finance/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.2inch.finance/images/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
+    }
+  ]
+}
