@@ -7,19 +7,19 @@
     "patch": 29
   },
   "tags": {},
-  "logoURI": "https://tokens.2inch.finance/images/xxx.png",
+  "logoURI": "https://tokens.2inch.finance/images/0x49842ebc71b861ec47234af46d2c186ceaac64e8.png",
   "keywords": [
     "2inchExchange",
     "default"
   ],
   "tokens": [
     {
-      "name": "2inch Token",
+      "name": "2INCH Token",
       "address": "xxx",
       "symbol": "2INCH",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://tokens.2inch.finance/images/xxx.png"
+      "logoURI": "https://tokens.2inch.finance/images/0x49842ebc71b861ec47234af46d2c186ceaac64e8.png"
     },
     {
       "name": "BAI Stablecoin",
