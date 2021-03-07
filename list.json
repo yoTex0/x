@@ -15,7 +15,7 @@
   "tokens": [
     {
       "name": "2INCH Token",
-      "address": "xxx",
+      "address": "0x49842ebc71b861ec47234af46d2c186ceaac64e8",
       "symbol": "2INCH",
       "decimals": 18,
       "chainId": 56,
